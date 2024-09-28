@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Remate**
+ 👨🏼‍💻 I’m currently working on **Remate**
  
- 🌱 I’m currently learning **C applied to embedded system**
+ 🧠 I’m currently learning **C applied to embedded system**
 
  </div>
  
