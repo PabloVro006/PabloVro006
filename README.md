@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Italy 🇮🇹</h3>
-
+<br/>
 <div align="center">
     
  👨🏼‍💻 I’m currently working on **Personal projects and personal knowledge**
