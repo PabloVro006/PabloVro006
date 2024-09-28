@@ -29,11 +29,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,linux,c,cpp,cs,python,arduino,anaconda,androidstudio,apple,bash,dart,dotnet,firebase,flutter,kotlin,notion,raspberrypi,stackoverflow,swift,ubuntu,unity,visualstudio,vscode&perline=10" />
   </a>
 </p>
-
-<br/>
-
 <br/><br/>
-
 <hr/>
-
 <br/>
