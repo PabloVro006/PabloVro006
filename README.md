@@ -9,8 +9,7 @@
 <br/>
 
 <div align="center">
- 
- 👨🏼‍💻 I’m currently working on **Remate**
+ 👨🏼‍💻 I’m currently working on **Personal projects and personal knowledge**
  
  🧠 I’m currently learning **C applied to embedded system**
 
