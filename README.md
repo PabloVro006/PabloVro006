@@ -12,6 +12,8 @@
  
  🧠 I’m currently learning **C applied to embedded system**
 
+ 💭 I'm planning to **Master STM32**
+
  </div>
  
 <div align="center"> 
