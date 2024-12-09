@@ -22,6 +22,8 @@
   </a>
 </div>
 
+</hr>
+### GitHub Stats
 <div align="center">
   <table>
     <tr>
