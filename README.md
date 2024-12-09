@@ -24,7 +24,7 @@
 
 </hr>
 
-<h1>GitHub Stats</h1>
+<h3>GitHub Stats</h3>
 
 <div align="center">
   <table>
