@@ -52,6 +52,14 @@
 <hr/>
 -->
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PabloVro00607.PabloVro00607" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋!+I'm+Paolo;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Italy 🇮🇹</h3>
+
 <br/>
 <div align="center">
     
@@ -75,7 +83,7 @@
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,dart,bash,flutter,git,github,linux,arudino,androidstudio,raspberrypi,ubuntu,vscode,stm32,esp32&perline=9" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,dart,bash,flutter,git,github,linux,arudino,androidstudio,raspberrypi,ubuntu,vscode,cmake,docker,nvim,ubuntu,vim&perline=9" />
   </a>
 </p>
 <hr/>
