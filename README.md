@@ -46,7 +46,7 @@
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,dart,bash,flutter,git,github,linux,arudino,anaconda,androidstudio,raspberrypi,ubuntu,vscode,arduino,stm32,esp32&perline=9" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,dart,bash,flutter,git,github,linux,arduino,anaconda,androidstudio,raspberrypi,ubuntu,vscode,arduino,stm32,esp32&perline=9" />
   </a>
 </p>
 <hr/>
@@ -83,7 +83,7 @@
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,dart,bash,flutter,git,github,linux,arudino,androidstudio,raspberrypi,ubuntu,vscode,cmake,docker,nvim,ubuntu,vim&perline=9" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,dart,bash,flutter,git,github,linux,arduino,androidstudio,raspberrypi,ubuntu,vscode,cmake,docker,neovim,ubuntu,vim&perline=9" />
   </a>
 </p>
 <hr/>
